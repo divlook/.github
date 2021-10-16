@@ -1,0 +1,12 @@
+{
+  "name": "Semantic Release Workflow",
+  "description": "Semantic release workflow template.",
+  "iconName": "icon-package-transparent",
+  "categories": [
+    "JavaScript",
+    "TypeScript"
+  ],
+  "filePatterns": [
+    "^package.json$"
+  ]
+}
